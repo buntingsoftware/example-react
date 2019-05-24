@@ -15,7 +15,7 @@ class BuntingApp extends App {
       <div>
         <Head>
           <link rel="stylesheet" href="./static/style.css"></link>
-
+          <script type="text/javascript" id="bunting_script_1">(function(){if(typeof window.$_Bunting=="undefined")window.$_Bunting={d:{}};$_Bunting.src=("https:"==document.location.protocol?"https://":"http://")+"hartsofstur.1.bunting.com/call.js?wmID=6";$_Bunting.s=document.createElement("script");$_Bunting.s.type="text/javascript";$_Bunting.s.async=true;$_Bunting.s.defer=true;$_Bunting.s.charset="UTF-8";$_Bunting.s.src=$_Bunting.src;document.getElementsByTagName("head")[0].appendChild($_Bunting.s)})()</script>
         </Head>
         <Container>
           <Provider store={reduxStore}>
