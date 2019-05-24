@@ -1,0 +1,26 @@
+{
+  "name": "bunting-react",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vohzd/bunting-react.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vohzd/bunting-react/issues"
+  },
+  "homepage": "https://github.com/vohzd/bunting-react#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.0.3",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8"
+  }
+}
