@@ -15,7 +15,7 @@ class BuntingApp extends App {
       <div>
         <Head>
           <link rel="stylesheet" href="./static/style.css"></link>
-          <script type="text/javascript" id="bunting_script_1" src="https://hartsofstur.1.bunting.com/call.js?wmID=6"></script>
+          <script type="text/javascript" id="bunting_script_1" src="https://example.1.bunting.com/call.js?wmID=INT"></script>
         </Head>
         <Container>
           <Provider store={reduxStore}>
