@@ -6,7 +6,7 @@ Live here: https://react-integration.bunting.now.sh
 To test locally
 
 - clone this repo
-- `pm install`
+- `npm install`
 - `npm run dev`
 - open `localhost:3000`
 
